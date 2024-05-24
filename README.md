@@ -1,6 +1,6 @@
 
-- Machine Learning, Deep Learning, NUeral Networks, and software develpoment 
+- Machine Learning, Deep Learning, Neural Networks, and software development 
 - C++, Java, python>Machine Learning
-- Java projetcs mainly focused on minecraft and minecraft mods and helpers
+- Java projects mainly focused on minecraft and Minecraft mods and helpers
 - awwallace08114@gmail.com or text me but email me first.
 
